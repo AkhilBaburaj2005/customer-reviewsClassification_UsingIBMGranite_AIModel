@@ -10,7 +10,7 @@ A sophisticated NLP solution for analyzing customer reviews using IBM's Granite-
 - Customizable classification parameters
 - Colab integration for easy experimentation
 
-## Quick Start
+### Quick Start
 git clone https://github.com/yourusername/customer-reviewsClassification_UsingIBMGranite_AIModel.git
 cd customer-reviewsClassification_UsingIBMGranite_AIModel
 pip install -r requirements.txt
