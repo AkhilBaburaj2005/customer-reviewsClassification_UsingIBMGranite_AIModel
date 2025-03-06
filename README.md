@@ -17,7 +17,7 @@ An advanced NLP solution for multi-aspect customer review analysis using IBM's G
 ## Installation 🛠️
 
 ```bash
-git clone https://github.com/yourusername/customer-reviewsClassification_UsingIBMGranite_AIModel.git
+git clone https://github.com/AkhilBaburaj2005/customer-reviewsClassification_UsingIBMGranite_AIModel?tab=MIT-1-ov-file
 cd customer-reviewsClassification_UsingIBMGranite_AIModel
 pip install -r requirements.txt
 ```
