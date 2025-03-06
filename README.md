@@ -1,7 +1,8 @@
 
 # Customer Reviews Classification Using IBM Granite-3.2-8b Model 🔍
 
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yourusername/customer-reviewsClassification_UsingIBMGranite_AIModel/blob/main/classification.ipynb)
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/19w0eSMSeVjYxfxLobWYNnC5fI6XsEg_s)
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1MF9D-2jQEj9NVXMPuXVSn4yK6AtDw7Ne)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 An advanced NLP solution for multi-aspect customer review analysis using IBM's Granite-3.2-8b-instruct model.
